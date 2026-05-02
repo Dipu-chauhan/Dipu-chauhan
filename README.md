@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Dipu Chauhan
 
-<!--
-**Dipu-chauhan/Dipu-chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Computer Science Student
+- 💻 Learning C++ and Data Structures
+- 🌱Building Scalable Systems Web Development
+- 🎯 Goal: To become a Software Engineer
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- C++
+- HTML
+- CSS
+- JavaScript
+- Backend (Node.js, SQL, MongoDB)
+- Python | AI/ML Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- DSA in C++
+- Portfolio Website
+- Movie Tracking Data Analysis
+
+## 📫 Contact Me
+- Email: deepuchau25@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dipu-chauhan
+
+## ⚡ Fun Fact
+I  solving coding problems and Building Scalable Systems projects.
