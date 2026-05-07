@@ -1,5 +1,12 @@
 # Hi 👋, I'm Dipu Chauhan
 
+## Software Engineering + AI/ML
+
+Aspiring Software Engineer and AI/ML enthusiast,
+focused on building real-world projects using MERN Stack,
+Python, and Machine Learning. Passionate about problem-solving,
+clean code, and continuous learning.
+
 ## 🚀 About Me
 - 🎓 Computer Science Student
 - 💻 Learning C++ and Data Structures
