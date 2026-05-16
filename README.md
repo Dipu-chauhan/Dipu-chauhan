@@ -8,10 +8,10 @@ Python, and Machine Learning. Passionate about problem-solving,
 clean code, and continuous learning.
 
 ## 🚀 About Me
-- 🎓 Computer Science Student
-- 💻 Learning C++ and Data Structures
-- 🌱Building Scalable Systems Web Development
-- 🎯 Goal: To become a Software Engineer
+🚀 BCA Student at SAGE University, Indore  
+💡 Aspiring Software Engineer & Generative AI Enthusiast  
+🧠 Learning MERN Stack, AI/ML, DSA & Generative AI  
+📌 Interested in Backend Development, AI Systems & Real-world Projects
 
 ## 🛠️ Skills
 - C++
