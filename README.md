@@ -22,17 +22,11 @@ I am passionate about building full-stack web applications and learning modern t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipu%20Chauhan-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-Dipu--chauhan-black?style=for-the-badge&logo=github)](https://github.com/Dipu-chauhan)
 
-## 🛠️ Tech Stack
+<p align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,express,mongodb,mysql,git,github,docker,vscode" />
+
+</p>
 
 ## 📊 GitHub Stats
 
@@ -46,10 +40,4 @@ I am passionate about building full-stack web applications and learning modern t
 - MERN Stack Projects
 - AI/ML Projects
 
-  ## 💻 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,express,mongodb,mysql,git,github,docker,vscode" />
-
-</p>
