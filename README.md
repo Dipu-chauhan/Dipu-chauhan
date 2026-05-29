@@ -18,9 +18,11 @@ I am passionate about building full-stack web applications and learning modern t
 - 📫 Connect with me on LinkedIn
 
 ## 🌐 Socials
+<a href="https://github.com/Dipu-chauhan">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipu%20Chauhan-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Dipu--chauhan-black?style=for-the-badge&logo=github)](https://github.com/Dipu-chauhan)
+## 💻 Tech Stack
 
 <p align="center">
 
