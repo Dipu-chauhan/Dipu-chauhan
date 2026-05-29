@@ -41,3 +41,10 @@ I am passionate about building full-stack web applications and learning modern t
 - AI/ML Projects
 
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dipu-chauhan&theme=tokyonight&row=1&column=7"/>
+
+</p>
