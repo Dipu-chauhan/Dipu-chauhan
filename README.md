@@ -45,3 +45,11 @@ I am passionate about building full-stack web applications and learning modern t
 - MICRO-PROJECT
 - MERN Stack Projects
 - AI/ML Projects
+
+  ## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,express,mongodb,mysql,git,github,docker,vscode" />
+
+</p>
