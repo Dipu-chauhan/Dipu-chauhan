@@ -40,10 +40,6 @@ I am passionate about building full-stack web applications and learning modern t
 - AI/ML Projects
 
 ## Social Badges
-## 🔥 GitHub Streak
-
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipu-chauhan&theme=tokyonight"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress;MERN+Stack+Developer;AI%2FML+Enthusiast;Generative+AI+Learner;Building+Real+World+Projects" />
 </p>
