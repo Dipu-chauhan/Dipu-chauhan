@@ -38,3 +38,15 @@ I am passionate about building full-stack web applications and learning modern t
 - MICRO-PROJECT
 - MERN Stack Projects
 - AI/ML Projects
+
+## Social Badges
+
+## 🌐 Connect With Me
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dipu-chauhan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
