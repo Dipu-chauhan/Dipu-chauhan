@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress;MERN+Stack+Developer;AI%2FML+Enthusiast;Generative+AI+Learner;Building+Real+World+Projects" />
 </p>
@@ -33,11 +32,9 @@ I am passionate about building full-stack web applications and learning modern t
 
 </p>
 
+
 ## 📊 GitHub Stats
-
-![Dipu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipu-chauhan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipu-chauhan&layout=compact&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dipu-chauhan&theme=tokyonight"/>
 
 ## 🚀 Featured Projects
 
