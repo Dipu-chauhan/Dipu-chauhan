@@ -1,3 +1,10 @@
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress;MERN+Stack+Developer;AI%2FML+Enthusiast;Generative+AI+Learner;Building+Real+World+Projects" />
+</p>
+
+
+
 # Hi! I'm Dipu Chauhan 👋
 
 Aspiring Software Engineer | BCA Student | MERN Stack Developer | AI/ML Learner
@@ -38,8 +45,3 @@ I am passionate about building full-stack web applications and learning modern t
 - MICRO-PROJECT
 - MERN Stack Projects
 - AI/ML Projects
-
-## Social Badges
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress;MERN+Stack+Developer;AI%2FML+Enthusiast;Generative+AI+Learner;Building+Real+World+Projects" />
-</p>
