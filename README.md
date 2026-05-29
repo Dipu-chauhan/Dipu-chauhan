@@ -21,6 +21,7 @@ I am passionate about building full-stack web applications and learning modern t
 <a href="https://github.com/Dipu-chauhan">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
+<img src="http://www.w3.org/2000/svg"/>
 
 ## 💻 Tech Stack
 
