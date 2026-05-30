@@ -4,11 +4,14 @@
 
 
 
-# Hi! I'm Dipu Chauhan 👋
+## Hi! I'm Dipu Chauhan 👋
 
 Aspiring Software Engineer | BCA Student | MERN Stack Developer | AI/ML Learner
 
-I am passionate about building full-stack web applications and learning modern technologies like Generative AI, Backend Development, and Software Engineering.
+Hey! Myself Dipu Chauhan, currently pursuing Bachelor of Computer Applications (BCA) from SAGE University, Indore. I’m passionate about Software Engineering, AI/ML, Generative AI, Backend Development, and solving real-world problems through technology.
+
+Currently, I’m exploring and learning technologies like MERN Stack, AI/ML, Generative AI, Python, DevOps, Advanced Backend Development, Data Structures & Algorithms.
+
 
 - 🔭 Currently working on MERN Stack projects
 - 🌱 Learning Data Structures, Backend Development, and AI/ML
@@ -28,7 +31,7 @@ I am passionate about building full-stack web applications and learning modern t
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,express,mongodb,mysql,git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,express,mongodb,mysql,git,github,docker,vscode,react" />
 
 </p>
 
