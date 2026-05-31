@@ -1,7 +1,5 @@
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1200&color=B8A7FF&center=true&vCenter=true&width=1000&lines=🚀+Emerging+Engineer+Software+Engineer;💻+MERN+Stack+Developer;🤖+AI%2FML+Enthusiast;✨+Generative+AI+Learner;🔥+Building+Real+World+Projects" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1200&color=B8A7FF&center=true&vCenter=true&width=1000&lines=🚀+Emerging+Software+Engineer;💻+MERN+Stack+Developer;🤖+AI%2FML+Enthusiast;✨+Generative+AI+Learner;🔥+Building+Real+World+Projects" />
 </p>
 
 
