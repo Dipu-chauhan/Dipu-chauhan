@@ -1,7 +1,8 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress;MERN+Stack+Developer;AI%2FML+Enthusiast;Generative+AI+Learner;Building+Real+World+Projects" />
-</p>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1200&color=B8A7FF&center=true&vCenter=true&width=1000&lines=🚀+Emerging+Engineer+Software+Engineer;💻+MERN+Stack+Developer;🤖+AI%2FML+Enthusiast;✨+Generative+AI+Learner;🔥+Building+Real+World+Projects" />
+
+</p>
 
 
 ## Hi! I'm Dipu Chauhan 👋
