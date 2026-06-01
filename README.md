@@ -3,14 +3,18 @@
 </p>
 
 
-## Hi! I'm Dipu Chauhan 👋
+## 👨‍💻 About the Developer
 
-Aspiring Software Engineer | BCA Student | MERN Stack Developer | AI/ML Learner
+Hello everyone,
 
-Hey! Myself Dipu Chauhan, currently pursuing Bachelor of Computer Applications (BCA) from SAGE University, Indore. I’m passionate about Software Engineering, AI/ML, Generative AI, Backend Development, and solving real-world problems through technology.
+I’m Dipu Chauhan, a BCA student and emerging software engineer with a passion for building real-world applications and exploring AI, Generative AI, and MERN stack technologies.
+Currently, I am focused on strengthening my skills in MERN Stack, Backend Development, Data Structures & Algorithms, DevOps, and AI/ML while working on practical projects to gain hands-on experience.
 
-Currently, I’m exploring and learning technologies like MERN Stack, AI/ML, Generative AI, Python, DevOps, Advanced Backend Development, Data Structures & Algorithms.
+My goal is to continuously learn, build impactful solutions, contribute to the developer community, and grow into a professional Software Engineer.
 
+Thank you for visiting my profile and checking out my work. 🚀
+
+<br>
 
 - 🔭 Currently working on MERN Stack projects
 - 🌱 Learning Data Structures, Backend Development, and AI/ML
@@ -36,8 +40,7 @@ Currently, I’m exploring and learning technologies like MERN Stack, AI/ML, Gen
 
 
 ## 📊 GitHub Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dipu-chauhan&theme=tokyonight"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dipu-chauhan&show_icons=true&theme=tokyonight"/>
 ## 🚀 Featured Projects
 
 - MICRO-PROJECT
@@ -47,8 +50,6 @@ Currently, I’m exploring and learning technologies like MERN Stack, AI/ML, Gen
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dipu-chauhan&theme=tokyonight&row=1&column=7"/>
 
-</p>
