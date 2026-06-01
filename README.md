@@ -55,6 +55,8 @@ Thank you for visiting my profile and checking out my work. 🚀
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dipu-chauhan&show_icons=true&theme=tokyonight"/>
+<br>
+
 ## 🚀 Featured Projects
 
 - MICRO-PROJECT
