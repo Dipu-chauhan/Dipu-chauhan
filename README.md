@@ -8,6 +8,7 @@
 Hello everyone,
 
 I’m Dipu Chauhan, a BCA student and emerging software engineer with a passion for building real-world applications and exploring AI, Generative AI, and MERN stack technologies.
+
 Currently, I am focused on strengthening my skills in MERN Stack, Backend Development, Data Structures & Algorithms, DevOps, and AI/ML while working on practical projects to gain hands-on experience.
 
 My goal is to continuously learn, build impactful solutions, contribute to the developer community, and grow into a professional Software Engineer.
@@ -23,19 +24,32 @@ Thank you for visiting my profile and checking out my work. 🚀
 - 📫 Connect with me on LinkedIn
 
 ## 🌐 Socials
+<p align="center">
+
 <a href="https://github.com/Dipu-chauhan">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
+<img src="https://img.shields.io/badge/GitHub-B8A7FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/dipu-chauhan/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://img.shields.io/badge/LinkedIn-D8CCFF?style=for-the-badge&logo=linkedin&logoColor=6D28D9"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/dipuchauhan01/">
+<img src="https://img.shields.io/badge/Instagram-EC4899?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Dipu_chauhan//">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
 
 ## 💻 Tech Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,express,mongodb,mysql,git,github,docker,vscode,react" />
-
+ 
 </p>
 
 
