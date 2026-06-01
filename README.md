@@ -21,7 +21,7 @@ Thank you for visiting my profile and checking out my work. 🚀
 - 🌱 Learning Data Structures, Backend Development, and AI/ML
 - 💻 Interested in Software Engineering and Generative AI
 - 🚀 Goal: Build strong real-world projects and grow as a developer
-- 📫 Connect with me on LinkedIn
+- 🤝 Let's Connect
 
 ## 🌐 Socials
 <p align="center">
