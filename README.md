@@ -45,10 +45,8 @@ Thank you for visiting my profile and checking out my work. 🚀
 </p>
 
 ## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,express,mongodb,mysql,git,github,docker,vscode,react" />
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,express,mongodb,mysql,git,github,docker,vscode,react,vercel" />
  
 </p>
 
