@@ -7,11 +7,11 @@
 
 Hello everyone,
 
-I’m Dipu Chauhan, a BCA student and emerging software engineer with a passion for building real-world applications and exploring AI, Generative AI, and MERN stack technologies.
+<i>I’m Dipu Chauhan, a BCA student and emerging software engineer with a passion for building real-world applications and exploring AI, Generative AI, and MERN stack technologies.
 
 Currently, I am focused on strengthening my skills in MERN Stack, Backend Development, Data Structures & Algorithms, DevOps, and AI/ML while working on practical projects to gain hands-on experience.
 
-My goal is to continuously learn, build impactful solutions, contribute to the developer community, and grow into a professional Software Engineer.
+My goal is to continuously learn, build impactful solutions, contribute to the developer community, and grow into a professional Software Engineer.</i>
 
 Thank you for visiting my profile and checking out my work. 🚀
 
