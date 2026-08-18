@@ -57,7 +57,7 @@ Thank you for visiting my profile and checking out my work. 🚀
 
 ## 🚀 Featured Projects
 
-- MICRO-PROJECT
+- Ai-Agent
 - MERN Stack Projects
 - AI/ML Projects
 
